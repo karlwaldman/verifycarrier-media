@@ -11,8 +11,9 @@ open the full VerifyCarrier profile before your next load.
 
 **Support:** https://verifycarrier.com/support
 
-**Privacy policy:** Publish the extension-specific PRIVACY.md at an owner-controlled
-public URL and enter that URL in the developer dashboard before submission.
+**Privacy policy:** https://github.com/karlwaldman/verifycarrier-media/blob/main/chrome-extension/PRIVACY.md
+
+**Promotional image:** [440 × 280 PNG](assets/promo-440x280.png). Supply genuine screenshots from the installed build before submission.
 
 ## Description
 
