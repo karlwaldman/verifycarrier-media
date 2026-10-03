@@ -9,3 +9,7 @@
 [Research a carrier on VerifyCarrier](https://verifycarrier.com/?utm_source=github&utm_medium=referral&utm_campaign=review_walkthrough) · [Carrier monitoring](https://verifycarrier.com/carrier-monitoring?utm_source=github&utm_medium=referral&utm_campaign=review_walkthrough)
 
 This repository contains public media only.
+
+## Chrome quick lookup
+
+[Download the Chrome extension test build](https://github.com/karlwaldman/verifycarrier-media/releases/tag/chrome-1.0.0). Search USDOT, MC or company name, then open [VerifyCarrier](https://verifycarrier.com) to keep researching or create a free account. [Installation and allowance details](chrome-extension/README.md) · [Extension privacy](chrome-extension/PRIVACY.md). This is an unpacked test build; Chrome Web Store publication is pending.
